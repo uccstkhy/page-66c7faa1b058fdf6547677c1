@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f16e14ba508860df3f1e29ee",
+  "owner": "uccstkhy",
+  "repo": "page-66c7faa1b058fdf6547677c1",
+  "title": "VMSSR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "66c7faa1b058fdf6547677c1",
+      "a": "VMSSR",
+      "b": "",
+      "entity": "VMSSR",
+      "brand": "VMSSR",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4b5ba73832a45a0f4afd47c153de4c0af5819d45bb822b623de4385e39529de4",
+      "content": {
+        "keyword1": "VMSSR",
+        "keyword2": "",
+        "primary_entity": "VMSSR",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "VMSSR 提供专业机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体并优化游戏线路。访问官网按配置流程即可快速上手。",
+          "AI_DESCRIPTION": "VMSSR 提供专业机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体并优化游戏线路。访问官网按配置流程即可快速上手。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0}body{font-family:system-ui,-apple-system,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#F8F5F0;color:#1A1A1A;font-size:16px;line-height:1.7;overflow-x:hidden}*{box-sizing:border-box}a{color:#2D6A4F;text-decoration:none}header,footer,.band{width:100%}.wrap{width:100%;max-width:680px;margin:0 auto;padding:0 16px}header{background:#1B4332;color:#F8F5F0;padding:14px 0}nav{display:flex;flex-wrap:wrap;gap:10px 14px;font-size:14px}nav a{color:#B7E4C7}h1{font-size:1.7rem;color:#1B4332;margin:1.4rem 0 0.8rem;line-height:1.35}h2{font-size:1.3rem;color:#2D6A4F;margin:1.8rem 0 0.7rem;padding-bottom:6px;border-bottom:2px solid #95D5B2}h3{font-size:1.08rem;color:#1B4332;margin:1.1rem 0 0.45rem}p,li{overflow-wrap:break-word}p{margin:0 0 0.9rem}.lead{font-size:1.02rem;color:#333}.plan{background:#fff;border:1px solid #D8E2DC;border-radius:8px;padding:1.15rem 1.2rem;margin:0 0 12px}.featured{border:2px solid #2D6A4F;background:#F3FAF6;position:relative}.badge{position:absolute;top:-11px;right:14px;background:#2D6A4F;color:#fff;font-size:12px;padding:2px 10px;border-radius:999px}.price{font-size:1.45rem;font-weight:700;color:#1B4332;margin:0.2rem 0}.annual{font-size:14px;color:#2D6A4F;margin-bottom:0.6rem}.features{margin:0;padding-left:1.15rem}.features li{margin:0.28rem 0}.step{display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid #E4EDE7;border-radius:8px;padding:14px;margin:0 0 10px}.num{flex:0 0 32px;width:32px;height:32px;border-radius:50%;background:#2D6A4F;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}.scene{background:#fff;border-left:4px solid #40916C;padding:10px 14px;margin:0 0 8px}.dl{background:#fff;padding:12px 14px;margin:0 0 8px;border-radius:8px;border:1px solid #E4EDE7}details{background:#fff;border:1px solid #E0E5E2;border-radius:8px;margin:0 0 8px;padding:0}summary{padding:12px 14px;font-weight:650;color:#1B4332}details p{padding:0 14px 12px;margin:0;color:#333}.adbox{background:#E9F5EE;border:1px dashed #40916C;color:#1B4332;text-align:center;padding:12px;margin:16px 0;font-size:14px}footer{background:#1B4332;color:#D8F3DC;padding:24px 0;margin-top:36px;font-size:13px}footer a{color:#95D5B2;margin-right:10px}.map{display:flex;flex-wrap:wrap;gap:8px 12px;margin:8px 0 12px;padding:0;list-style:none}.cta{display:inline-block;background:#2D6A4F;color:#fff;padding:8px 14px;border-radius:6px;margin-top:6px}</style><header><div class=\"wrap\"><strong>VMSSR</strong><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">问答</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>VMSSR 官方网站</h1><p class=\"lead\">VMSSR 是面向个人与团队的高速机场订阅与 VPN 梯子服务，强调清晰的配置流程、稳定节点与多端客户端下载。在官网完成套餐选择后，按纵向步骤导入订阅即可开始网络加速。</p><section id=\"intro\"><h2>品牌简介</h2><p>VMSSR 专注跨境网络加速，提供可订阅的节点池与常用客户端兼容方案。服务覆盖日常浏览、流媒体解锁、远程协作与游戏线路优化。节点采用普通线路与 IPLC 专线搭配，方便按延迟与用途切换。</p><p>官网页面把购买、订阅复制、客户端导入拆成可跟随的步骤，降低第一次使用门槛。基础版适合轻度加速，旗舰版强化原生流媒体与游戏体验，团队版面向多设备共享与定制路由。</p></section><section id=\"plans\"><h2>套餐与订阅</h2><p>以下套餐可按月或按年使用。年付可锁定优惠价。流量按自然月重置，设备数指同时在线连接数。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#guide\">按流程配置基础版</a></p></article><article class=\"plan featured\"><span class=\"badge\">推荐</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#guide\">按流程配置旗舰版</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#guide\">按流程配置团队版</a></p></article></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scene\"><h3>流媒体与内容访问</h3><p>旗舰版与团队版面向 Netflix、Disney+、YouTube 等平台做原生解锁，减少地区限制导致的播放失败。基础版覆盖常见视频站点的基础加速。</p></div><div class=\"scene\"><h3>游戏与实时对战</h3><p>IPLC 专线用于降低跨境游戏的抖动与丢包，适合需要稳定延迟的对战与国际服登录。建议在客户端中按延迟排序后固定一条优质线路。</p></div><div class=\"scene\"><h3>办公协作与资料检索</h3><p>远程会议、代码仓库、学术文献与跨境电商后台可通过机场订阅保持会话稳定。团队版支持更多终端同时在线，便于小团队共用一条订阅。</p></div><div class=\"scene\"><h3>多设备随身加速</h3><p>同一订阅可在电脑、手机与路由环境中导入。请勿超过套餐设备上限，以免触发限速或掉线。</p></div></section><section id=\"guide\"><h2>配置流程</h2><p>VMSSR 强调可执行的纵向步骤。完成购买后，按下列顺序操作即可连通。全程无需额外脚本，只需官方订阅链接与常用客户端。</p><div class=\"step\"><div class=\"num\">1</div><div><h3>进入官网并选择套餐</h3><p>确认基础版、旗舰版或团队版的流量与设备数。年付适合长期使用。下单后在用户中心查看订阅状态。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div><h3>复制机场订阅地址</h3><p>在控制台找到通用订阅或 Clash / Surge 专用链接。复制完整 URL，不要截断参数。该地址用于客户端自动拉取节点。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div><h3>下载对应系统客户端</h3><p>Windows 可用 v2rayN 或 Clash Verge，macOS 可用 ClashX 或 Surge，Android 可用 Clash Meta，iOS 可用 Shadowrocket 或 Stash。到本页下载区对照说明。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div><h3>导入订阅并更新节点</h3><p>打开客户端的订阅栏，粘贴链接后更新。成功后会出现地区分组。建议开启自动更新，避免节点变更后失效。</p></div></div><div class=\"step\"><div class=\"num\">5</div><div><h3>测速选择节点并连接</h3><p>先测延迟，再按用途选择：浏览用普通线路，4K 与游戏优先 IPLC。连接后访问目标站点验证解锁与速度。如失败，切换节点或检查系统代理模式。</p></div></div><div class=\"step\"><div class=\"num\">6</div><div><h3>日常维护</h3><p>流量将尽时升级套餐。更换设备先在旧设备断开。遇到解析问题可切换 DNS 或重新导入订阅。旗舰版与团队版可走优先工单。</p></div></div></section><section id=\"download\"><h2>客户端下载与导入说明</h2><p>VMSSR 不绑定单一软件，兼容主流开源与商业客户端。请从可信渠道获取安装包，再用官网订阅链接导入。以下为推荐组合，链接指向本页说明锚点。</p><div class=\"dl\"><h3>Windows 客户端</h3><p>推荐 Clash Verge 或 v2rayN。安装后选择订阅管理，粘贴 VMSSR 订阅，更新节点，系统代理选规则模式。适合办公与下载。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"dl\"><h3>macOS 客户端</h3><p>ClashX Meta 或 Surge 均可。Surge 适合需要精细分流的用户。导入后开启增强模式，将浏览器与终端一并覆盖。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"dl\"><h3>Android 客户端</h3><p>Clash Meta for Android 支持订阅与分应用代理。建议仅对需要加速的 App 开启，节省电量与流量。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"dl\"><h3>iOS 客户端</h3><p>Shadowrocket、Stash 或 Quantumult X。从商店安装后添加订阅，开启 VPN 配置。首次需在系统设置中允许 VPN。</p><p><a href=\"#guide\">查看导入步骤</a></p></div><div class=\"dl\"><h3>路由与其他</h3><p>OpenWrt、Clash 内核路由可直接填写订阅。团队版可按网段定制分流。配置前请备份原有规则。</p><p><a href=\"#plans\">返回套餐对照设备数</a></p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>VMSSR 是什么？和普通 VPN 有何不同？</summary><p>VMSSR 是提供节点订阅的机场服务。用户用一条链接在多款客户端里拉取节点，而不是锁定单一 App。这样可以按场景切换线路，并把梯子、加速器与流媒体解锁放在同一套配置里完成。</p></details><details><summary>如何完成客户端下载并第一次连上？</summary><p>先在套餐页确认设备数量，再复制订阅。到客户端下载区选择系统对应软件，粘贴订阅并更新，测延迟后连接。完整顺序见上方六步配置流程，一般数分钟内可完成。</p></details><details><summary>三个套餐该怎么选？流量与设备如何理解？</summary><p>轻度浏览选基础版 100GB / 3 设备。需要原生流媒体和游戏专线选旗舰版 300GB / 5 设备。多人共用或企业分流选团队版 1000GB / 20 设备。流量按月重置，同时在线超过上限可能被断开。</p></details><details><summary>是否支持 Netflix 等流媒体以及游戏加速？</summary><p>基础版提供基础解锁。旗舰版与团队版强调全节点原生流媒体，并对热门游戏走 IPLC。实际效果仍取决于目标站点策略，遇到地区检测时请更换解锁分组中的节点。</p></details><details><summary>订阅链接泄露或需要更换设备怎么办？</summary><p>立即在用户中心重置订阅链接，旧链接将失效。新设备导入新链接后，在旧设备删除配置。不要把订阅发到公开群组。团队版可申请按成员拆分权限。</p></details><details><summary>连不上或速度不稳时先检查什么？</summary><p>确认本地时间正确、客户端已更新订阅、系统代理已开启。尝试关闭再开 TUN/增强模式，或换一条同区域节点。若仅个别网站失败，多半是分流规则问题，可临时改全局再观察。</p></details></section><div class=\"adbox\">合作展示：节点线路与客户端教程联署位（文字合作，非跳转表单）</div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>VMSSR 官方网站 · 机场订阅与 VPN 网络加速</p><p id=\"sitemap\">网站地图</p><ul class=\"map\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul><p>友情链接 <a href=\"#\">节点百科</a><a href=\"#\">分流规则说明</a><a href=\"#\">客户端对照</a><a href=\"#\">隐私与使用须知</a></p><p>广告与合作仅展示文字信息，不收集表单。访问 <a href=\"#\">官网首页</a> 或 <a href=\"#download\">官方下载说明</a> 获取最新配置指引。</p><p>© VMSSR 保留所有权利。本页为静态说明页，用于介绍套餐、配置流程与客户端导入。</p></div></footer>",
+          "hash": "cac4c24139eacc76e6ee53d36f47c6260b5f992741092175902acfc663249c31",
+          "seo": {
+            "title": "VMSSR官网 - 高速VPN梯子网络加速与客户端官方下载",
+            "keywords": "VMSSR,VMSSR机场,VMSSR VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "VMSSR 提供专业机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体并优化游戏线路。访问官网按配置流程即可快速上手。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tcoke.cn",
+    "host": "p-e1327451d0.tcoke.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "tcoke.cn",
+      "url": "https://tcoke.cn/",
+      "label": "大白加速",
+      "apex": "tcoke.cn",
+      "kind": null,
+      "identity": "ypshgcvcb/page-ba6b5314d82553908621807d"
+    },
+    {
+      "host": "ahzak.cn",
+      "url": "https://ahzak.cn/",
+      "label": "VMSSR",
+      "apex": "ahzak.cn",
+      "kind": null,
+      "identity": "bnkbyvcv/page-e09641612b201d43040bb08c"
+    },
+    {
+      "host": "bfmjk.cn",
+      "url": "https://bfmjk.cn/",
+      "label": "VMSSR",
+      "apex": "bfmjk.cn",
+      "kind": null,
+      "identity": "wrhtxava/page-2436074ce70b3661c4108f48"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0c4cab8de9e5b923680b3d7bed7a544569edb54f47aa3da82acaa619a5391784",
+    "sitemap.xml": "50452206816978a2a4a8ce74470e9a64fbb8dfbddcde8e838256e4b057c097fc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "08522b185dbe0c5d204f5854bb9aef452124496fdfc680ee8152e0029b0472d5",
+    "robots.txt": "0fb5ba4937360b2e93c80c93333978933dec0e318aaddc040bee85f0a3059b51",
+    "c16da815ab2775065aa9941b740c3ac0.txt": "108a1dc47706e48cf3c1d0dfb7cd30b4377944b938dadbb98d7249a94eccf5ad"
+  },
+  "revision": "a9b6b2db15a01c18d6f3c20d60afb143b91335e721dce3160dd502927a1403c9"
+}
